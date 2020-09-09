@@ -5,7 +5,7 @@
 
 - 류지승
 
-[커리큘럼]
+[[커리큘럼]](https://github.com/DAtoDS/Machine-Learning-Study/blob/master/Curriculum.md)
 
 - KNN
 - 클러스터링 - 군집화
@@ -19,7 +19,7 @@
 - SVM
 - 일반화 선형 모델
 - 의사 결정 나무
-- 배깅 모델(랜덤 포레스트)
+- 랜덤 포레스트
 - 부스팅 모델(xgb, lightgbm)
 - 신경망
 - 자연어 처리
